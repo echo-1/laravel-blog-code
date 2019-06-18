@@ -1,0 +1,1 @@
+一封来自He的测试邮件!<?php /**PATH G:\laragon\www\blog\resources\views/emails/test.blade.php ENDPATH**/ ?>
